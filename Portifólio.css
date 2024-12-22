@@ -1,0 +1,42 @@
+body {
+ background-color: #483D8B;
+ height: 2000px;
+ width: 350px;
+ text-align: center;
+ padding-top: 20px;
+}
+ 
+img {
+ height: 150px;
+ width: 150px;
+ border-radius: 100px;
+ border: solid 5px #1c1837;
+ #6c63a2;
+ #2b2453;
+}
+
+h1 {
+ font-family: Helvetica;
+ color: white; 
+}
+
+h3 {
+ color: white;
+}
+
+.subtitulo {
+ padding: 5px;
+ margin: 50px;
+ text-decoration: 20px;
+ color: #483D8B;
+ background-color: white;
+ font-size: 25px;
+ border-radius: 100px;
+ border: solid #2b2453;
+}
+
+.link {
+ color: #b5b1d0;
+ font-size: 20px;
+ border-radius: 100px;
+ }
